@@ -27,5 +27,5 @@ Dataquest Projects:
 * Winning Jeopardy
 
 ## Just for fun Analyses
-* [Bundesliga Data Visualizations](just_for_fun_analyses/Bundesliga Data Visualizations.ipynb)
+* [Bundesliga Data Visualizations](just_for_fun_analyses/Bundesliga_Data_Visualizations.ipynb)
 
