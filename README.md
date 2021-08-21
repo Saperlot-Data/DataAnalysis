@@ -9,7 +9,7 @@ This repository has been created to track and organize my progress in all Data A
 	
 ## Data Analyses from Courses 
 Dataquest Projects:
-[Contribution guidelines for this project](docs/CONTRIBUTING.md)
+[* Profitable App Profiles for the App Store and Google Play Markets](docs/CONTRIBUTING.md)
 * Profitable App Profiles for the App Store and Google Play Markets
 * Exploring Hacker News Posts
 * Exploring eBay Car Sales Data
