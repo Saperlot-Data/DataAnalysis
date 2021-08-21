@@ -8,7 +8,7 @@
 This repository has been created to track and organize my progress in all Data Analysis topics.
 	
 ## Data Analyses from Courses 
-Dataquest Projects:
+Dataquest Guided Projects:
 * [Profitable App Profiles for the App Store and Google Play Markets](data_analyses_from_courses/profitable_apps.ipynb)
 * Exploring Hacker News Posts
 * Exploring eBay Car Sales Data
