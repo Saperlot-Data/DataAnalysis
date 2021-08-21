@@ -9,7 +9,7 @@ This repository has been created to track and organize my progress in all Data A
 	
 ## Data Analyses from Courses 
 Dataquest Projects:
-* [Profitable App Profiles for the App Store and Google Play Markets](data_analyses_from_courses/Basics.ipynb)
+* [Profitable App Profiles for the App Store and Google Play Markets](data_analyses_from_courses/profitable_apps.ipynb)
 * Exploring Hacker News Posts
 * Exploring eBay Car Sales Data
 * Finding Heavy Traffic Indicators on I-94
